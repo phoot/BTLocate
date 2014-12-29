@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // Application name
+    <string name="app_name">BTLocate</string>
+
+    // search screen
+    <string name="device_list">Device List</string>
+    <string name="device_definition_Add">Address</string>
+    <string name="device_definition_name">Name</string>
+    <string name="device_definition_rssi">Signal</string>
+    <string name="start_search_device_str">Start</string>
+    <string name="stop_search_device_str">Stop</string>
+    <string name="ble_not_supported">Your device doesn\'t support BT LE </string>
+    <string name="search_stop_bt_not_activated">Device search Stopped BT not activated</string>
+    <string name="too_much_devices">Too many devices in range</string>
+
+    // setting menu
+    <string name="action_settings">Settings</string>
+
+</resources>
